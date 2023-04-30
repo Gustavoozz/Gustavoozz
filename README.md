@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente cursando desenvolvimento de sistemas.
 - 📫 Estudando C#.
-- 😄 Pronouns: he/him.
+- 😄 Em busca do primeiro emprego.
 
 ##
 
