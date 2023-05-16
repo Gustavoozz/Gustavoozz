@@ -1,7 +1,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
-<img src="umbreon-shiny.gif" align="center" alt="">
+<img align="right" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" max-width="200px" width="200px" align="right" alt="Computador">
 
 
 ### Olá, me chamo Gustavo!
