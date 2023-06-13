@@ -8,7 +8,7 @@
 
 
 - 🌱 Atualmente cursando desenvolvimento de sistemas.
-- 📫 Estudando C#.
+- 📫 Full-Stack Developer.
 - 😄 Em busca do primeiro emprego.
 
 ##
