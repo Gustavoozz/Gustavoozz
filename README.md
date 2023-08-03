@@ -18,16 +18,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  <h2>🌊 Skills</h2>
- <div>
+<div>
    <img align="center" alt="Csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-   <img align="center" alt="SQLS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> 
+   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+   <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="CSS" height="30" width="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+   <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+   <img align="center" alt="SQLS" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
+  
    ##
-   
-</div>
+
+   </div>
 
   <div>
    <h2>🌐 Contato </h2> 
