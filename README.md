@@ -31,9 +31,7 @@
    <img align="center" alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img align="center" alt="Asp"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
    
-  
    ##
-
 
    <div>
   <h2>🎓 Formação Acadêmica </h2> 
@@ -42,7 +40,7 @@
 </div>
 
   <div>
-   <h2>🌐 Contato </h2> 
+   <h2>🌐 Contatos </h2> 
   <a href="https://www.gmail.com/gustavonascimento928@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/gustavo-magalhães-058a8a272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
