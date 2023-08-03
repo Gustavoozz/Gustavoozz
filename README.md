@@ -8,11 +8,8 @@
  
  Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 
 
- Como instrutor atuo no curso Técnico em Desenvolvimento de Sistemas e já atuei na Central de Tutoria e Monitoria.
+ Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>.
 
- Atuei também como desenvolvedor Backend com as linguagens Python e Java.
-
- Meus hobbies são corrida de rua🏃 e ciclismo🚵‍♂️.
 
 </div>
 
