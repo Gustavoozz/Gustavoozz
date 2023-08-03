@@ -1,7 +1,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
-<img align="right" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" max-width="200px" width="200px" align="right" alt="Computador">
+<img align="right" src=["https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F4I9G&psig=AOvVaw3EJ0E-RejNJj5zvpnUq9gD&ust=1691171032180000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLD1tpuFwYADFQAAAAAdAAAAABAD)" max-width="200px" width="200px" align="right" alt="Computador">
 
 
 ### Olá, me chamo Gustavo!
