@@ -1,7 +1,7 @@
 ### Olá, me chamo Gustavo!
 
 <div>
-  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="100px" align="center" alt="Pc">
+  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Pc">
 </div>
 
 <div>
