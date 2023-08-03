@@ -1,4 +1,4 @@
-### Olá, me chamo Gustavo!
+### Olá, me chamo Gustavo! 👋
 
 <div>
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
@@ -6,9 +6,9 @@
 
 <div>
  
- Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 
+ Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 🔌 
 
- Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>.
+ Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>. 💾 
 
 
 </div>
