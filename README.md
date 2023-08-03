@@ -5,9 +5,9 @@
 </div>
 
 <div>
-- 🌱 Atualmente cursando desenvolvimento de sistemas.
-- 📫 Full-Stack Developer.
-- 😄 Em busca do primeiro emprego.
+- 🌱 Atualmente cursando desenvolvimento de sistemas.<br>
+- 📫 Full-Stack Developer.<br>
+- 😄 Em busca do primeiro emprego.<br>
 </div>
 
 
