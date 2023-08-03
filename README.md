@@ -1,17 +1,17 @@
-
+### Olá, me chamo Gustavo!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="100px" align="center" alt="Pc">
 </div>
 
-### Olá, me chamo Gustavo!
-
+<div>
 - 🌱 Atualmente cursando desenvolvimento de sistemas.
 - 📫 Full-Stack Developer.
 - 😄 Em busca do primeiro emprego.
+</div>
 
-##
- <h2> 🌎 Information about my GitHub account </h2> 
+
+## 🌎 Information about my GitHub account 
 <div>
   <a href="https://github.com/Gustavoozz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
