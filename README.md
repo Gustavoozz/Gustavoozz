@@ -31,8 +31,6 @@
 
   <div>
    <h2> 💻  Redes sociais e contatos  💻 </h2> 
- <a href="https://www.instagram.com/fvckingusta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href="https://www.twitter.com/fvckingusta/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.gmail.com/gustavonascimento928@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/gustavo-magalhães-058a8a272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
