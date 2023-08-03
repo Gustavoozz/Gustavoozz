@@ -17,8 +17,8 @@
 ## 🌎 Information about my GitHub account 
 <div>
   <a href="https://github.com/Gustavoozz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
  <h2>🌊 Skills </h2>
 <div>
