@@ -37,7 +37,7 @@
   <h2>🎓 Formação Acadêmica </h2> 
  ⚙️ Ensino médio completo - Colégio Gran Leone <br>
  ⚙️ SENAI Paulo Skaf - Formação em 2024 - Cursando Desenvolvimento de sistemas <br>
-</div>
+
 
   <div>
    <h2>🌐 Contatos </h2> 
