@@ -34,7 +34,6 @@
   
    ##
 
-   </div>
 
    <div>
   <h2>🎓 Formação Acadêmica </h2> 
