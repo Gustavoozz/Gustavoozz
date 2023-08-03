@@ -14,10 +14,10 @@
 ## 🌎 Information about my GitHub account 
 <div>
   <a href="https://github.com/Gustavoozz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- <h2>🌊 Skills</h2>
+ <h2>🌊 Skills </h2>
 <div>
    <img align="center" alt="Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -32,6 +32,12 @@
    ##
 
    </div>
+
+   <div>
+  <h2>🎓 Formação Acadêmica </h2> 
+ ⚙️ Ensino médio completo - Colégio Gran Leone <br>
+ ⚙️ SENAI Paulo Skaf - Formação em 2024 - Cursando Desenvolvimento de sistemas <br>
+</div>
 
   <div>
    <h2>🌐 Contato </h2> 
