@@ -5,9 +5,15 @@
 </div>
 
 <div>
-- 🌱 Atualmente cursando desenvolvimento de sistemas.<br>
-- 📫 Full-Stack Developer.<br>
-- 😄 Em busca do primeiro emprego.<br>
+ 
+ Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 
+
+ Como instrutor atuo no curso Técnico em Desenvolvimento de Sistemas e já atuei na Central de Tutoria e Monitoria.
+
+ Atuei também como desenvolvedor Backend com as linguagens Python e Java.
+
+ Meus hobbies são corrida de rua🏃 e ciclismo🚵‍♂️.
+
 </div>
 
 
