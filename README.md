@@ -1,4 +1,4 @@
-### Olá, seja bem -vindo(a) ao meu perfil do Github! 👋
+### Olá, seja bem-vindo(a) ao meu perfil do Github! 👋
 
 <div>
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
