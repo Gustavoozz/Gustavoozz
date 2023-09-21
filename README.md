@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) ao meu perfil do Github! 👋
 
 <div>
-  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputers-stickers&psig=AOvVaw37GamDP50zy6xapLdTdAhI&ust=1695410396649000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiH9IW2vIEDFQAAAAAdAAAAABAW" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
 </div>
 
 <div>
