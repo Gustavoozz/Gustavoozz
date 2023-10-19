@@ -17,9 +17,10 @@
 ## 🌎 Information about my GitHub account 
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&count_private=true&ring_color=#2ECFF5&title_color=#2ECFF5&icon_color=#2ECFF5&rank-circle_color=#2ECFF5&text_color=ffffff&bg_color=000000"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&title_color=#2ECFF5&text_color=ffffff&bg_color=000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&count_private=true&ring_color=E0004D&title_color=E0004D&icon_color=E0004D&rank-circle_color=E0004D&text_color=ffffff&bg_color=000000"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&title_color=E0004D&text_color=ffffff&bg_color=000000" />
 </div>
+
  <h2>🌊 Skills </h2>
 <div>
    <img align="center" alt="Figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
