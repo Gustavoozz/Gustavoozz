@@ -11,9 +11,10 @@
 </div>
 
 ## 🌎 Information about my GitHub account
-<div align="center" style="display: inline_block">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavozz&layout=compact&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
+ <div>
+  <a href="https://github.com/Gustavoozz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
