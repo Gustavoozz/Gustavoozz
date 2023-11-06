@@ -11,7 +11,7 @@
 </div>
 
 ## 🌎 Information about my GitHub account
-<div align="center">
+<div align="center" style="display: inline_block">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavozz&layout=compact&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
 </div>
