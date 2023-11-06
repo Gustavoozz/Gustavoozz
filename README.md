@@ -10,8 +10,9 @@
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>. 💾 
 </div>
 
-<h2>🌎 Information about my GitHub account</h2> 
+
  <div align="center">
+  <h2>🌎 Information about my GitHub account</h2> 
   <a href="https://github.com/Gustavoozz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -26,21 +27,28 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-  <h2>☕  Tools</h2> 
-  <div>
-  <img align="center" alt="Sublime"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-  <img align="center" alt="vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+  <div align="center" style="display: inline_block">  
+  <h2>☕ Tools</h2><br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="40" width="40"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
   
 
-  <div>
+  <div align="center">
   <h2>🎓 Formação Acadêmica </h2> 
  ⚙️ Colégio Gran Leone - Ensino médio completo <br>
  ⚙️ SENAI Paulo Skaf - Formação em 2024 - Cursando Desenvolvimento de sistemas <br>
  ⚙️ Novotec Expresso - Formação em 2023 - Cursando Criação de plataformas digitais <br>
+  </div>
 
+  <div align="center">
    <h2>🌐 Contatos </h2> 
   <a href="https://www.gmail.com/gustavonascimento928@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/gustavo-magalhães-058a8a272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
