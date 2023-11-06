@@ -10,7 +10,7 @@
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>. 💾 
 </div>
 
-## 🌎 Information about my GitHub account
+<h2>🌎 Information about my GitHub account</h2> 
  <div align="center">
   <a href="https://github.com/Gustavoozz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,7 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-  <h2>☕  IDEs</h2> 
+  <h2>☕  Tools</h2> 
   <div>
   <img align="center" alt="Sublime"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img align="center" alt="vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
