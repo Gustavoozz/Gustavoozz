@@ -13,8 +13,8 @@
 ## 🌎 Information about my GitHub account
  <div align="center">
   <a href="https://github.com/Gustavoozz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=tokyo-night"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 
@@ -28,11 +28,6 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
-  
-  <h2>✏️  Studying </h2> 
-  <div>
-  <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
   <h2>☕  IDEs</h2> 
   <div>
