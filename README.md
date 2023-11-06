@@ -10,7 +10,7 @@
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>. 💾 
 </div>
 
-
+## 🌎 Information about my GitHub account
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavozz&layout=compact&theme=transparent&icon_color=ab91f2&title_color=91b6f2&text_color=A9A9A9&border_color=A9A9A9">
@@ -44,7 +44,6 @@
  ⚙️ Colégio Gran Leone - Ensino médio completo <br>
  ⚙️ SENAI Paulo Skaf - Formação em 2024 - Cursando Desenvolvimento de sistemas <br>
  ⚙️ Novotec Expresso - Formação em 2023 - Cursando Criação de plataformas digitais <br>
-## 🌎 Information about my GitHub account
 
    <h2>🌐 Contatos </h2> 
   <a href="https://www.gmail.com/gustavonascimento928@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
