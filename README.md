@@ -1,10 +1,11 @@
-### Olá, seja bem-vindo(a) ao meu perfil do Github! 👋
 
-<div>
+
+<div align="center">
+  <strong> Olá, seja bem-vindo(a) ao meu perfil do Github! 👋</strong><br>
   <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
 </div>
 
-<div>
+<div align="center">
  Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 🔌 
 
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>. 💾 
