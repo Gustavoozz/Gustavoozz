@@ -5,7 +5,7 @@
 
  <p>Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 🔌 
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>.</p>
-</div>
+
 
 ##
 
