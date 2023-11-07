@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  <strong> Olá, seja bem-vindo(a) ao meu perfil do Github! 👋</strong><br>
-  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc">
+  <strong> Olá, seja bem-vindo(a) ao meu perfil do Github! 👋</strong>
+  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Pc"><br>
 </div>
 
 <div align="center">
