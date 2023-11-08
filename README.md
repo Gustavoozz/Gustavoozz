@@ -5,8 +5,8 @@
    <p>Meu nome é Gustavo, tenho 18 anos de idade e atualmente estou cursando <strong>Desenvolvimento de sistemas</strong> na instituição de ensino <strong>SENAI Paulo Skaf</strong>. 🔌 
  Possuo conhecimento nas áreas de <strong>Front-End</strong> e <strong>Back-End</strong>.</p><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoozz&layout=compact&langs_count=16&theme=dark"/>
 
 
 <div align="center" style="display: inline_block"><br>
