@@ -36,7 +36,7 @@
   <h2>🎓 Formação Acadêmica </h2> 
  ⚙️ Colégio Gran Leone - Ensino médio completo <br>
  ⚙️ SENAI Paulo Skaf - Formação em 2024 - Cursando Desenvolvimento de sistemas <br>
- ⚙️ Novotec Expresso - Formação em 2023 - Cursando Criação de plataformas digitais <br>
+ ⚙️ Novotec Expresso - Formado em 2023 - Criação de plataformas digitais <br>
   </div>
 
   <div align="center">
